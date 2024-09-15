@@ -1,0 +1,30 @@
+2022-11-9	Montalegre
+[1, 'manusha', '23', 'SLRiders', 'March', 155]
+[2, 'akash', '21', 'ColomboRiders', 'IST', 352]
+[3, 'seth', '19', 'SLRiders', 'GTR', 247]
+[4, 'Kasindu', '26', 'PowerofSouthern', 'Mazda', '394']
+
+2022-11-13	Montalegre
+[1, 'Kasindu', '26', 'PowerofSouthern', 'Mazda', 404]
+[2, 'manusha', '23', 'SLRiders', 'March', 162]
+[3, 'akash', '21', 'ColomboRiders', 'IST', 357]
+[4, 'seth', '19', 'SLRiders', 'GTR', 247]
+
+2022-11-14	Norway
+[1, 'akash', '21', 'ColomboRiders', 'IST', 367]
+[2, 'seth', '19', 'SLRiders', 'GTR', 254]
+[3, 'manusha', '23', 'SLRiders', 'March', 167]
+[4, 'Kasindu', '26', 'PowerofSouthern', 'Mazda', 404]
+
+2022-11-18	Norway
+[1, 'manusha', '23', 'SLRiders', 'March', 177]
+[2, 'akash', '21', 'ColomboRiders', 'IST', 374]
+[3, 'seth', '19', 'SLRiders', 'GTR', 259]
+[4, 'Kasindu', '26', 'PowerofSouthern', 'Mazda', 404]
+
+2022-11-29	Montalegre
+[1, 'akash', '21', 'ColomboRiders', 'IST', 384]
+[2, 'Kasindu', '26', 'PowerofSouthern', 'Mazda', 411]
+[3, 'manusha', '23', 'SLRiders', 'March', 182]
+[4, 'seth', '19', 'SLRiders', 'GTR', 259]
+
